@@ -27,3 +27,4 @@ The main configuration file for the site is in the base directory in [_config.ym
 Contact
 ------
 Contact me via Email: rina.singh[at]nyu[dot]edu
+[Email](mailto:rina.singh@nyu.edu?subject=[GitHub]%20Source%20Han%20Sans)
