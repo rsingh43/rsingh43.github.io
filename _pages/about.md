@@ -25,7 +25,7 @@ News
 
 Current Research Projects
 ------
-Currently, I am working in understanding how temporal and sequential aspects are useful when analyzing healthcare data, through the use of data mining, machine learning, deep learning and causal inference techniques. I am also working on Fair machine learning model for healthcare system.
+Currently, I am working in understanding how temporal and sequential aspects are useful when analyzing healthcare data, through the use of data mining, machine learning, deep learning and causal inference techniques. I am also working on fair machine learning model for healthcare system.
 
 Past Research Projects
 ------
