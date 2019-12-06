@@ -26,4 +26,4 @@ The main configuration file for the site is in the base directory in [_config.ym
 
 Contact
 ------
-Contact me via Email: <rina.singh[at]nyu[dot]edu>
+Contact me via Email: rina.singh[at]nyu[dot]edu
