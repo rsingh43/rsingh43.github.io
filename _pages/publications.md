@@ -26,19 +26,19 @@ Harvineet Singh, <b>Rina Singh</b>, Vishwali Mhasawade, Rumi Chunara.
 
 <b>[Mining Interesting, Non-Redundant Healthcare Trajectories](https://knowledge.amia.org/67852-amia-1.4259402/t007-1.4262189/t007-1.4262190/2976696-1.4262413/2977100-1.4262410?qr=1)</b> <br> 
 <b>Rina Singh</b>, Jeffrey A. Graves, Lemuel R. Waitman, Michael R. Prittie, Susan Piras, Douglas A. Talbert.
-<i>In American Medical Informatics Association Annual Symposium</i>. <b>AMIA 2018)</b>.
+<i>In American Medical Informatics Association Annual Symposium</i>. <b>AMIA 2018</b>.
 
 <b>[Complex Patterns in Dynamic Attributed Graphs](https://dl.acm.org/citation.cfm?id=2889374)</b> <br> 
 <b>Rina Singh</b>, Jeffrey A. Graves, Douglas A. Talbert.
-<i>In Proceedings of the 25th International Conference Companion on World Wide Web</i>. <b>WWW 2016)</b>.
+<i>In Proceedings of the 25th International Conference Companion on World Wide Web</i>. <b>WWW 2016</b>.
 
 <b>[Enabling Graph Appliance for Genome Assembly](https://ieeexplore.ieee.org/document/7364056)</b> <br> 
 <b>Rina Singh</b>, Jeffrey A. Graves, Sangkeun Lee, Sreenivas R. Sukumar, Mallikarjun Shankar.
-<i>In 2015 IEEE International Conference on Big Data</i>. <b>IEEE BigData 2015)</b>.
+<i>In 2015 IEEE International Conference on Big Data</i>. <b>IEEE BigData 2015</b>.
 
 <b>[A graphical user interface for SILK data link discovery framework](https://dl.acm.org/citation.cfm?id=2491080)</b> <br> 
 <b>Rina Singh</b>, Jan Hidders, Feng Xia, Jialiang Kang.
-<i>In Proceedings of the 9th International Symposium on Open Collaboration</i>. <b>OpenSym 2013)</b>.
+<i>In Proceedings of the 9th International Symposium on Open Collaboration</i>. <b>OpenSym 2013</b>.
 
 
 
