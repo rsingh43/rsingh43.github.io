@@ -10,7 +10,7 @@ Harvineet Singh, <b>Rina Singh</b>, Vishwali Mhasawade, Rumi Chunara.
 
 <b>[Evaluating Scientific Workflow Engines for Data and Compute Intensive Discoveries](https://sites.google.com/view/btsd2019/home)</b> <br> 
 <b>Rina Singh</b>, Jeffrey Graves, Sreenivas Sukumar, and Valentine Anantharaj.
-<i>Workshop on Big Data Tools and Use Cases for Innovative Scientific Discovery (BTSD) 2019</i>. <b>IEEE BigData 2019</b>
+<i>Workshop on Big Data Tools and Use Cases for Innovative Scientific Discovery</i>. <b>IEEE BigData 2019</b>
 
 <b>[Finding a Balance Between Interestingness and Diversity in Sequential Pattern Mining](https://csce.ucmss.com/cr/books/2018/LFS/CSREA2018/ICD8044.pdf)</b> <br> 
 <b>Rina Singh</b>, Jeffrey A. Graves, Lemuel R. Waitman, Douglas A. Talbert.
