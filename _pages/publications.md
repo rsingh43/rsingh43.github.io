@@ -6,7 +6,7 @@ author_profile: true
 <br>
 <b>[Fair Predictors under Distribution Shift.](https://arxiv.org/abs/1911.00677)</b> <br> 
 Harvineet Singh, <b>Rina Singh</b>, Vishwali Mhasawade, Rumi Chunara.
-<i>Workshop on Fair ML for Health at Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2019</b>.
+<i>Workshop on Fair ML for Health at Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2019</b>. <span style="color:red">(spotlight presentation)</span>
 
 <b>[Evaluating Scientific Workflow Engines for Data and Compute Intensive Discoveries](https://sites.google.com/view/btsd2019/home)</b> <br> 
 <b>Rina Singh</b>, Jeffrey Graves, Sreenivas Sukumar, and Valentine Anantharaj.
