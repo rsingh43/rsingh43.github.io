@@ -8,4 +8,4 @@ date: 2019-12-02
 location: "Cookeville, TN"
 ---
 
-Invited talk on my current research.
+Invited talk on my recent research paper.
