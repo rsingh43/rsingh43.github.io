@@ -9,4 +9,12 @@ location: "Cookeville, USA"
 ---
 
 Responsible for all lab classess and few lecture classes.
-* Lab 1 : Linear Regression
+* Lab 1 : Introduction to numpy and matplotlib
+* Lab 2 : Pandas Introduction
+* Lab 3 : Linear Regression
+* Lab 4 : Basic data exploration, logistic regression, and basic evaluation
+* Lab 5 : Sampling for evaluation
+* Lab 6 : Regularized Regression
+* Lab 7 : Naive Bayes and K-NN classifiers
+* Lab 8 : Support Vector Machines and Grid Search
+* Lab 9 : K-Means
