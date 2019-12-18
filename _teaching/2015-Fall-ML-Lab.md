@@ -9,12 +9,4 @@ location: "Cookeville, USA"
 ---
 
 Responsible for all lab classess and few lecture classes.
-
-Lab 1 : Linear Regaression 
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Lab 1 : Linear Regression
