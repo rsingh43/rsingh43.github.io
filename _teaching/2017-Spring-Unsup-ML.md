@@ -7,3 +7,4 @@ venue: "Tennessee Tech. University, CSC"
 date: 2017-01-01
 location: "Cookeville, USA"
 ---
+Teaching Assistant
