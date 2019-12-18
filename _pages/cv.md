@@ -11,30 +11,42 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Computer Science, Tennessee Technological University.
+* M.S. in Computer Science, Delft University of Technology
+* B.E. in Software Engineering, Nepal College of Information Technology
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Summer 2017: Computational Data Analytics Intern
+  * Oak Ridge National Laboratory
+  * Duties included: Contributed in a project involving a semantic web-based distributed system environment for query processing capability over geo-distributed data centers. 
+  * Supervisor: Dr. Ramakrishnan Kannan
+  
+  * Summer 2016: Advanced Data and Workflow Intern
+  * Oak Ridge National Laboratory
+  * Duties included: Evaluated several existing workflow engines on high performance computing architectures (Titan, Rhea, Eos) and produce a qualitative and quantitative analysis. Resulted in IEEE BigData 2019 publication. 
+  * Supervisor: Dr. Sreenivas Rangan Sukumar
+  
+* Summer 2015: Computational Data Analytics Intern
+  * Oak Ridge National Laboratory
+  * Duties included: Implemented an algorithm for Urika-GD graph appliance to perform genome assembly using semantic web technologies (RDF, SPARQL) and the Java language. Resulted in IEEE BigData 2015 publication.
+  * Supervisor: Dr. Arjun Shankar
+  
+  * Summer 2013: Research Intern
+  * Tsinghua University
+  * Duties included: Conducted literature study and implemented an approach for identity resolution of multiple users in different social networks.. 
+  * Supervisor: Dr. Jie Tang
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+  * Pandas/NumPy
+  * Scikit-learn
+* Java
+* Deep Learning
+  * Tensorflow
+  * Keras
+* GraphLab/WEKA
 
 Publications
 ======
