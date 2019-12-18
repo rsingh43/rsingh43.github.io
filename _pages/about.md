@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Currently, I'm a Postdoctoral Research Associate at NYU Tandon School of Engineering working in the field of machine learning/data mining, deep learning, causal inference. Before, I worked as a Research Assistant at Tennessee Tech University, under the supervision of Prof. Doug Talbert. I have a Ph.D. in Computer Science from Tennessee Tech University, Master’s in Computer Science from Delft University of Technology (TU Delft), Netherlands, and a B.E. in Software Engineering from Nepal College of Information Technology.
 
-Currently, I'm a Postdoctoral Research Associate at [NYU Tandon School of Engineering](https://engineering.nyu.edu/), under the supervision of [Prof. Rumi Chunara](https://rumichunara.github.io/). Before, I worked as a Research Assistant at Tennessee Tech University, under the supervision of [Prof. Doug Talbert](https://users.csc.tntech.edu/~dtalbert/). I have a Ph.D. in Computer Science from Tennessee Tech University, Master’s in Computer Science from Delft University of Technology (TU Delft), Netherlands, and a B.E. in Software Engineering from Nepal College of Information Technology.
+<!--Currently, I'm a Postdoctoral Research Associate at [NYU Tandon School of Engineering](https://engineering.nyu.edu/), under the supervision of [Prof. Rumi Chunara](https://rumichunara.github.io/). Before, I worked as a Research Assistant at Tennessee Tech University, under the supervision of [Prof. Doug Talbert](https://users.csc.tntech.edu/~dtalbert/). I have a Ph.D. in Computer Science from Tennessee Tech University, Master’s in Computer Science from Delft University of Technology (TU Delft), Netherlands, and a B.E. in Software Engineering from Nepal College of Information Technology.-->
 
 Research Interest
 ======
