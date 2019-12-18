@@ -1,5 +1,5 @@
 ---
-title: "CSC 6230: Machine Learning"
+title: "CSC 6230 : Machine Learning"
 collection: teaching
 type: Graduate course"
 permalink: /teaching/2017-Sprig-ML
