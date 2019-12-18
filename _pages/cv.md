@@ -66,6 +66,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Services
 ======
-* Currently signed in to 43 different slack teams
+* Program Committee - AI in Healthcare Informatics (FLIAIRS-33, 2020) 
+* Reviewer - ML4H: Machine Learning for Health (NeurIPS, 2019)
