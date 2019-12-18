@@ -7,5 +7,5 @@ venue: "NYU, CSE"
 date: 2019-09-17
 location: "NYU, USA"
 ---
-Model selection/evaluation and Bias/Variance Tradeoff
+Lecture on model selection/evaluation and Bias/Variance Tradeoff
 
