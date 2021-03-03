@@ -15,6 +15,7 @@ Research Interest
 ======
 * Machine Learning/Deep Learning/Data Mining
 * Time-Series Analysis
+* Causal Effect in Time Series
 * Fairness-aware AI for Health
 * Temporal Pattern Mining
 * Cause-Effect Analysis
@@ -32,6 +33,7 @@ Current Research Projects
    * Detecting seasonality in the data and finding effects of it on sales forecasting
    * Effects of social media content on sales forecasting
    * Effects of Ad spend on sales forecasting
+   * Causal Effect in time series analysis
 
 Past Research Projects
 ------
