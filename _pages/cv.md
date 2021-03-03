@@ -63,5 +63,5 @@ Teaching
   
 Services
 ======
-* Program Committee and Reviewer - FLAIRS, ML4H, ACM CHILL, NeurIPS 
+* Program Committee and Reviewer - FLAIRS, ML4H, ACM CHIL, NeurIPS 
 
