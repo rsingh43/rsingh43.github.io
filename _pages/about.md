@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Currently, I'm a Postdoctoral Research Associate at NYU Tandon School of Engineering working in the field of machine learning/data mining, deep learning, causal inference. Before, I worked as a Research Assistant at Tennessee Tech University. I have a Ph.D. in Computer Science from Tennessee Tech University, Master’s in Computer Science from Delft University of Technology (TU Delft), Netherlands, and a B.E. in Software Engineering from Nepal College of Information Technology.
+Currently, I'm a Postdoctoral Research Associate at NYU Tandon School of Engineering working in the field of machine learning/data mining, deep learning, causal inference. Before, I worked as a Research Assistant at Tennessee Tech University. I have a Ph.D. in Computer Science from Tennessee Tech University, and Master’s in Computer Science from Delft University of Technology (TU Delft), Netherlands.
 
 <!--Currently, I'm a Postdoctoral Research Associate at [NYU Tandon School of Engineering](https://engineering.nyu.edu/), under the supervision of [Prof. Rumi Chunara](https://rumichunara.github.io/). Before, I worked as a Research Assistant at Tennessee Tech University, under the supervision of [Prof. Doug Talbert](https://users.csc.tntech.edu/~dtalbert/). I have a Ph.D. in Computer Science from Tennessee Tech University, Master’s in Computer Science from Delft University of Technology (TU Delft), Netherlands, and a B.E. in Software Engineering from Nepal College of Information Technology.-->
 
@@ -21,6 +21,7 @@ Research Interest
 
 News
 ======
+* Paper on "Fairness Violations and Mitigation under Covariate Shift" accepted to ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT 2021)
 * Paper on "Evaluating Scientific Workflow Engines for Data and Compute Intensive Discoveries" accepted at Workshop on Big Data Tools and Use Cases for Innovative Scientific Discovery (BTSD) 2019 @IEEE BigData 2019 LA, USA.
 * Paper title “Fair Predictors under Distribution Shift” accepted at Fair Machine Learning for Health Workshop at NeurIPS 2019 (**spotlight presentation**).
 
