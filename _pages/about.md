@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Currently, I'm a working as a AI Reserch Scientist at Fusemachines and as a AI Consultant at Take Two Interactive Software in the field of time-series analysis for sales and demand forecasting. Before, I worked as a Postdoctoral Research Associate at NYU Tandon School of Engineering working in the field fairness aware AI for healthcare. I have a Ph.D. in Computer Science from Tennessee Tech University, and Master’s in Computer Science from Delft University of Technology (TU Delft), Netherlands.
+Currently, I'm a working as a AI Reserch Scientist at Fusemachines and as a AI Consultant at Take Two Interactive Software, Inc in the field of time-series analysis for sales and demand forecasting. Before, I worked as a Postdoctoral Research Associate at NYU Tandon School of Engineering working in the field fairness aware AI for healthcare. I have a Ph.D. in Computer Science from Tennessee Tech University, and Master’s in Computer Science from Delft University of Technology (TU Delft), Netherlands.
 
 <!--Currently, I'm a Postdoctoral Research Associate at [NYU Tandon School of Engineering](https://engineering.nyu.edu/), under the supervision of [Prof. Rumi Chunara](https://rumichunara.github.io/). Before, I worked as a Research Assistant at Tennessee Tech University, under the supervision of [Prof. Doug Talbert](https://users.csc.tntech.edu/~dtalbert/). I have a Ph.D. in Computer Science from Tennessee Tech University, Master’s in Computer Science from Delft University of Technology (TU Delft), Netherlands, and a B.E. in Software Engineering from Nepal College of Information Technology.-->
 
@@ -29,7 +29,7 @@ News
 Current Research Projects
 ------
 * Time-Series Analysis for Sales and Demand forecasting
-   * Detecting seasonality in the data and finding affects of it on sales forecasting
+   * Detecting seasonality in the data and finding effects of it on sales forecasting
    * Effects of social media content on sales forecasting
    * Effects of Ad spend on sales forecasting
 
