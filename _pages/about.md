@@ -18,7 +18,6 @@ Research Interest
 * Causal Effect in Time Series
 * Fairness-aware AI for Health
 * Temporal Pattern Mining
-* Cause-Effect Analysis
 * Social Network Analysis
 
 News
@@ -30,7 +29,7 @@ News
 Current Research Projects
 ------
 * Time-Series Analysis for Sales and Demand forecasting
-   * Detecting seasonality in the data and finding effects of it on sales forecasting
+   * Detecting seasonality in the data to improve demand and sales forecasting
    * Effects of social media content on sales forecasting
    * Effects of Ad spend on sales forecasting
    * Causal Effect in time series analysis
