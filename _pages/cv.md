@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
+* Postdoctoral Research Associate, New York University.
 * Ph.D. in Computer Science, Tennessee Technological University.
-* M.S. in Computer Science, Delft University of Technology
+* M.S. in Computer Science, Delft University of Technology.
 
 Work experience
 ======
