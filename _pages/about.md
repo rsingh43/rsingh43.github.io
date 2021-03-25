@@ -29,9 +29,9 @@ News
 Current Research Projects
 ------
 * Time-Series Analysis for Sales and Demand forecasting
-   * Detecting seasonality in the data to improve demand and sales forecasting
-   * Effects of social media content on sales forecasting
-   * Effects of Ad spend on sales forecasting
+   * Competitor marketing strategies (Share of Voice)
+   * Effects of social media posts and content drop
+   * Effects of seasonality on revenue optimization
    * Causal Effect in time series analysis
 
 Past Research Projects
