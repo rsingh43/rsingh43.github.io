@@ -8,7 +8,7 @@ author_profile: true
 Harvineet Singh, <b>Rina Singh</b>, Vishwali Mhasawade, Rumi Chunara.
 <i>Workshop on Fair ML for Health at Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2019</b>. <span style="color:red">(spotlight presentation)</span>
 
-<b>[Evaluating Scientific Workflow Engines for Data and Compute Intensive Discoveries](https://sites.google.com/view/btsd2019/home)</b> <br> 
+<b>[Evaluating Scientific Workflow Engines for Data and Compute Intensive Discoveries](https://ieeexplore.ieee.org/document/9006223)</b> <br> 
 <b>Rina Singh</b>, Jeffrey Graves, Sreenivas Sukumar, and Valentine Anantharaj.
 <i>Workshop on Big Data Tools and Use Cases for Innovative Scientific Discovery</i>. <b>IEEE BigData 2019</b>
 
