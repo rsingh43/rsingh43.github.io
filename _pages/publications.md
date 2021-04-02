@@ -3,7 +3,7 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
-<b>[Fairness violations and mitigation under covariate shift](https://dl.acm.org/doi/abs/10.1145/3442188.3445865)</b> 
+<b>[Fairness Violations and Mitigation under Covariate Shift](https://dl.acm.org/doi/abs/10.1145/3442188.3445865)</b> 
 <br> 
 Harvineet Singh, <b>Rina Singh</b>, Vishwali Mhasawade, Rumi Chunara.
 <i>Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency. 2021</i>. <b>ACM FAccT 2021</b>
