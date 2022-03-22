@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Excited to start something challenging and interesting soon. I have worked as a AI Reserch Scientist at Fusemachines in the field of time-series analysis for sales and demand forecasting. Before, I worked as a Postdoctoral Research Associate at NYU Tandon School of Engineering in the field of fairness aware AI for healthcare. I have a Ph.D. in Computer Science from Tennessee Tech University, and Master’s in Computer Science from Delft University of Technology (TU Delft), Netherlands.
+Currently, working as a Quant(AI/ML). Before, I have worked as a AI Research Scientist at Fusemachines in the field of time-series analysis for sales and demand forecasting and as a Postdoctoral Research Associate at NYU Tandon School of Engineering in the field of fairness aware AI for healthcare. I have a Ph.D. in Computer Science from Tennessee Tech University, and Master’s in Computer Science from Delft University of Technology (TU Delft), Netherlands.
 
 <!--Currently, I'm a Postdoctoral Research Associate at [NYU Tandon School of Engineering](https://engineering.nyu.edu/), under the supervision of [Prof. Rumi Chunara](https://rumichunara.github.io/). Before, I worked as a Research Assistant at Tennessee Tech University, under the supervision of [Prof. Doug Talbert](https://users.csc.tntech.edu/~dtalbert/). I have a Ph.D. in Computer Science from Tennessee Tech University, Master’s in Computer Science from Delft University of Technology (TU Delft), Netherlands, and a B.E. in Software Engineering from Nepal College of Information Technology.-->
 
@@ -43,4 +43,4 @@ As part of my Ph.D. research involved the design and development of algorithms t
 Contact
 ------
 <!--- Contact me via [Email](mailto:rina.singh@nyu.edu?subject=[GitHub]%20Source%20Han%20Sans)  --->
-Contact me via Email: rina[at]fusemachines[dot]com
+<!--- Contact me via Email: rina[at]fusemachines[dot]com ---->
