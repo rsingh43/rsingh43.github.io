@@ -40,7 +40,3 @@ As part of my postdoctoral research involved the study of the problem of learnin
 
 As part of my Ph.D. research involved the design and development of algorithms to more efficiently and effectively analyze of sequences associated with specific events. For example, the identification of patterns of events that precede or follow a diagnosis of sepsis could be important for understanding and improving healthcare care decisions in a hospital, and while the primary motivation for my research was to improve our ability to analyze clinical data, the research described in the dissertation is applicable in many other domains.
 
-Contact
-------
-<!--- Contact me via [Email](mailto:rina.singh@nyu.edu?subject=[GitHub]%20Source%20Han%20Sans)  --->
-<!--- Contact me via Email: rina[at]fusemachines[dot]com ---->
