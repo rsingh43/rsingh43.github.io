@@ -24,7 +24,7 @@ redirect_from:
 ## Learn with me
 ======
 
-With educational backgrounds in computer science, and professional experience in Data Science and programming, subjects in which Rin might help you include:
+With educational backgrounds in computer science, and professional experience in Data Science and programming, subjects in which I might help you include:
 * Computer Science Fundamentals
   * Algorithm
   * Data Structure
