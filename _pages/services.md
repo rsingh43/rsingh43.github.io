@@ -11,11 +11,13 @@ redirect_from:
 
 ## Study Abroad Guidance (Graduate School)
 ======
- * Search for universitites ( e.g., universities in usa for computer science) 
-    ** Go to the university website
-    ** Go to the admissions tabe, click graduate program
-    ** Find the program you are interested in (e.g., Master in computer science)
-    ** Check the requirement for admission to that program
+
+Steps:
+ * Search for universitites ( e.g., universities in usa for computer science)
+   * Go to the university website
+   * Go to the admissions tab, click graduate program
+   * Find the program you are interested in (e.g., Master in computer science)
+   * Check the requirement for admission to that program    
 * Depending on your desired program of study, prepare for the admission requirement (e.g., IELTS, GRE)
 * Apply for the program once you meet the requirement
 * Apply/seek for scholarship or any alternative funding (e.g, Teaching Assistantship (TA), Research Assistantship (RA)) for your graduate program.
