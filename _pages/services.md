@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-#### Study Abroad Guidance (Graduate School)
+## Study Abroad Guidance (Graduate School)
 ======
-* Search for universitites ( e.g., universities in usa for computer science) 
+ * Search for universitites ( e.g., universities in usa for computer science) 
     ** Go to the university website
     ** Go to the admissions tabe, click graduate program
     ** Find the program you are interested in (e.g., Master in computer science)
@@ -21,7 +21,7 @@ redirect_from:
 * Apply/seek for scholarship or any alternative funding (e.g, Teaching Assistantship (TA), Research Assistantship (RA)) for your graduate program.
 * More info coming soon...
 
-#### Learn with me
+## Learn with me
 ======
 
 With educational backgrounds in computer science, and professional experience in Data Science and programming, subjects in which Rin might help you include:
@@ -34,7 +34,7 @@ With educational backgrounds in computer science, and professional experience in
 * Analytics Tools
 * More info coming soon..
 
-#### Contact me
+## Contact me
 ======
 
 [email](rsingh43@students.tntech.edu) or [Linkedin](https://www.linkedin.com/in/rinasingh7/)
