@@ -10,8 +10,6 @@ redirect_from:
 {% include base_path %}
 
 ## Study Abroad Guidance (Graduate School)
-======
-
 Steps:
  * Search for universitites ( e.g., universities in usa for computer science)
    * Go to the university website
@@ -24,8 +22,6 @@ Steps:
 * More info coming soon...
 
 ## Learn with me
-======
-
 With educational backgrounds in computer science, and professional experience in Data Science and programming, subjects in which I might help you include:
 * Computer Science Fundamentals
   * Algorithm
@@ -37,6 +33,4 @@ With educational backgrounds in computer science, and professional experience in
 * More info coming soon..
 
 ## Contact me
-======
-
 [email](rsingh43@students.tntech.edu) or [Linkedin](https://www.linkedin.com/in/rinasingh7/)
