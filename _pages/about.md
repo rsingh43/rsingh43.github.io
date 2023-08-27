@@ -9,7 +9,7 @@ redirect_from:
 ---
 Currently, working as a Data Scientist/Quant(AI/ML) where I perform highly complex activities related to the design, development, validation, implementation, documentation, and ongoing maintenance of quantitative models (AI/ML) that offer insight into a wide range of product, business or risk mitigation initiatives by utilizing advanced mathematical skills and programming to create and validate analytic models. Before, I have worked as a AI Research Scientist at Fusemachines in the field of time-series analysis for sales and demand forecasting and as a Postdoctoral Research Associate at NYU Tandon School of Engineering in the field of fairness aware AI for healthcare. I have a Ph.D. in Computer Science from Tennessee Tech University, and Master’s in Computer Science from Delft University of Technology (TU Delft), Netherlands.
 
-[Know more about me](https://www.tntech.edu/news/releases/18-19/first-female-computer-science-phd-among-december-graduates.php)
+<!--[Know more about me](https://www.tntech.edu/news/releases/18-19/first-female-computer-science-phd-among-december-graduates.php)-->
 
 <!--Currently, I'm a Postdoctoral Research Associate at [NYU Tandon School of Engineering](https://engineering.nyu.edu/), under the supervision of [Prof. Rumi Chunara](https://rumichunara.github.io/). Before, I worked as a Research Assistant at Tennessee Tech University, under the supervision of [Prof. Doug Talbert](https://users.csc.tntech.edu/~dtalbert/). I have a Ph.D. in Computer Science from Tennessee Tech University, Master’s in Computer Science from Delft University of Technology (TU Delft), Netherlands, and a B.E. in Software Engineering from Nepal College of Information Technology.-->
 
